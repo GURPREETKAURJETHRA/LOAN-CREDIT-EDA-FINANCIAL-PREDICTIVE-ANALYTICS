@@ -7,7 +7,7 @@ To identify patterns which indicate if a client has difficulty paying their inst
 **Two types of risks are associated with the bank’s decision:**
 - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
 - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
-- 
+ 
 # Problem Introduction:
 - Predictive Analytics can be used to decide the credit worthiness of a customer and whether he/she can be issued a credit card or not.
 - This assignment aims to give you an idea of applying **EDA in a real business scenario**. In this case study we are using **Exploratory Data Analytics** to do a case study on **"Loan's application"**. In this assignment, we will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
@@ -39,6 +39,7 @@ The data given below contains the information about the loan application at the 
 In this case study, we will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
 # DataSet Description:
+
  **This dataset has 3 files** as explained below: 
 
  1. **application_data.csv** contains all the information of the client at the time of application.
@@ -47,6 +48,8 @@ The data is about whether a **client has payment difficulties.**
 2. **previous_application.csv** contains information about the client’s previous loan data. It contains the data whether the **previous application had been Approved, Cancelled, Refused or Unused offer.**
 
 3. **columns_description.csv** is **data dictionary** which describes the meaning of the variables.
+
+[Dataset Download Link](https://cdn.upgrad.com/UpGrad/temp/afe3690a-9d30-4f1d-b9ee-2d5d17881422/Dataset.txt)
 
 # CONCLUSION WITH STRONG INDICATORS TO DRIVE BUSINESS DECISIONS
 1. `Target/focused variable for "Current-Application" Dataset` - **TARGET**
